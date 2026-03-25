@@ -1,0 +1,16 @@
+# Postman Project .gitignore
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Postman environment files
+*.postman_environment.json
+
+# Postman globals
+*.postman_globals.json
+
+# Postman collection
+*.postman_collection.json
